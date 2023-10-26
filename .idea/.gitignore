@@ -6,6 +6,10 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+# Tools pulled down during build
+.tools/
+.dotnet/
+.packages/
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
